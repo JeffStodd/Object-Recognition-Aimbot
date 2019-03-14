@@ -188,8 +188,6 @@ int main()
     prev.x = -1;
     prev.y = -1;
 
-
-    //std::thread(bHop).detach();
     //targetLocked = clock();
     while (true)
     {
