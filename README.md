@@ -1,5 +1,5 @@
 # Object-Recognition-Aimbot
-Utilizes YOLO Darknet, CUDA, OPENCV, and Windows library to aim for user in FPS games at the target that been trained for the Neural Network
+Utilizes YOLO Darknet, CUDA, OPENCV, and Windows library to aim for user in First Person Shooter games at the target that has been trained for the Neural Network
 
 Demo:
 https://cdn.discordapp.com/attachments/489642661347721216/515039976573108224/ezgif-4-c7e8efc7f2be.gif
